@@ -1,6 +1,8 @@
-WEB DEVELOPMENT: VIDEO GAME INFORMATION PLATFORM
+WEB DEVELOPMENT: VIDEO GAME INFORMATION PLATFORM BY ANGULAR
 
 ● Developed a comprehensive video game information platform using Angular CLI, integrating real-time data from a public API (Rapid API).
+
+● Utilized TypeScript and SCSS to build robust and maintainable code, adhering to best practices for Angular development.
 
 ● Designed and implemented multiple Angular components, including a search and filter bar, game details view, home page, and game tab, to provide a user-friendly interface for exploring and interacting with video game data.
 
