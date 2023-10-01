@@ -1,0 +1,11 @@
+WEB DEVELOPMENT: VIDEO GAME INFORMATION PLATFORM
+
+● Developed a comprehensive video game information platform using Angular CLI, integrating real-time data from a public API (Rapid API).
+
+● Designed and implemented multiple Angular components, including a search and filter bar, game details view, home page, and game tab, to provide a user-friendly interface for exploring and interacting with video game data.
+
+● Leveraged Angular services for efficient HTTP calls to retrieve and display game information, enhancing the platform's responsiveness and performance.
+
+● Implemented HTTP interceptors to enhance data security and streamline API requests.
+
+● Established application routing to ensure smooth navigation and user experience.
